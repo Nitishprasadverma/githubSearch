@@ -12,8 +12,8 @@
             justify-content: center;
         }
 .cart{
-    height: 70vh;
-    width: 30vw;
+    min-height: 70vh;
+    min-width: 30vw;
     background: linear-gradient(#333,hsla(0, 0%, 0%, 0.901),#000000ab,#000000ab);
     padding: 3vw;
     border-radius: 20px;
